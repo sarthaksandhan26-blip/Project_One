@@ -1,7 +1,7 @@
 # Project_One
 
 ## Project Dataset 1
-# 🚴 Bike Sharing Demand Analysis Dashboard (Excel Project)
+# Sharing Demand Analysis Dashboard (Excel Project)
 ## 📂 Project Files
 
 ### 📊 Project A (Excel Workbook)
