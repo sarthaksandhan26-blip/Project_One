@@ -85,7 +85,8 @@ Compared average rentals across all seven days.
 
 ## 👨‍💻 Author
 Sarthak Sandhan
-FY (Computer Science Engineering) Student, Sanjivani University
+FY (C.S.E) Student,
+Sanjivani University
 
 🔗 LinkedIn: https://www.linkedin.com/in/sarthak-sandhan-19b174378  
 🔗 GitHub: https://github.com/sarthaksandhan26-blip
