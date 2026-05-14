@@ -12,6 +12,8 @@
 ### 📈 Dashboard Screenshot
 🖼️ [View Dashboard Screenshot](https://github.com/sarthaksandhan26-blip/Project_One/blob/main/Screenshot%20P2.png)
 
+![Bike Sharing Demand Dashboard](https://github.com/sarthaksandhan26-blip/Project_One/blob/main/Screenshot%20P2.png)
+
 ## 📌 Project Summary
 
 Developed an advanced Microsoft Excel dashboard to analyze bike-sharing demand using historical rental data. This project demonstrates practical skills in data cleaning, data transformation, pivot table analysis, KPI creation, and professional dashboard design.
